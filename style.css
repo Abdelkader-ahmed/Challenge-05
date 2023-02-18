@@ -94,7 +94,7 @@ background-color: hsl(184, 100%, 22%);
        cursor: pointer;
 
 }
-@media (max-width: 375px ) {
+@media   (max-width: 450px)  {
   .wapper{
     display: flex;
     flex-direction: column;
@@ -103,5 +103,6 @@ background-color: hsl(184, 100%, 22%);
   }
   
 }
+
 
 
